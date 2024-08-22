@@ -57,3 +57,10 @@ Sample Output 0
 Success
 Success
 Success
+Failure
+Success
+
+2 3500
+3 5000
+1 6500
+4 6500
